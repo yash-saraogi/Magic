@@ -1,3 +1,4 @@
 # Magic
+
 Magical Trash
-Author - Magic Man
+Author - Magic Man Again
